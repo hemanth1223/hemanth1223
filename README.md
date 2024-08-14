@@ -30,3 +30,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth1223&show_icons=true&locale=en&layout=compact" alt="hemanth1223" /></p>
+![Hemanth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemanth1223&layout=compact)
